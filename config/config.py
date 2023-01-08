@@ -40,7 +40,7 @@ SONG_DOWNLOAD_DURATION = int(
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-853508550"))
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "musicbot")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Musicbot")
 
 # Your User ID.
 OWNER_ID = list(
@@ -56,7 +56,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/kingali371/music-v1",
+    "https://github.com/kingali371/musicv1",
 )
 BOT_USERNAME = getenv(
     "BOT_USERNAME", "MusicKateabot"
@@ -68,19 +68,19 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
 CHANNEL_SUDO = getenv(
-    "CHANNEL_SUDO", "mmmmmmrmm"
+    "CHANNEL_SUDO", "gg2003a"
 )  # معرف قناتك بدون @
 YAFA_NAME = getenv(
-    "YAFA_NAME", "اثباتات ويوميات علوش آل گمر"
+    "YAFA_NAME", "بدون اسم"
 )  # اسم قناتك
 YAFA_CHANNEL = getenv(
-   " YAFA_CHANNEL", "https://t.me/mmmmmmrmm"
+   " YAFA_CHANNEL", "https://t.me/gg2003a"
 )  # رابط قناتك
 SUDO_USER =getenv(
     "SUDO_USER", "https://t.me/U_8_U_2"
 )  # رابط حسابك
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/mmmmmmrmm"
+    "SUPPORT_CHANNEL", "https://t.me/gg2003a"
 )  # رابط قناتك
 SUPPORT_GROUP = getenv(
     "SUPPORT_GROUP", "https://t.me/assdsyria"
